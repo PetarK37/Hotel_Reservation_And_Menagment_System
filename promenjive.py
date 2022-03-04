@@ -1,0 +1,2 @@
+korisnik = {}
+rezervisane_sobe = []
